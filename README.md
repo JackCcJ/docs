@@ -1,2 +1,1 @@
-# docs
-OvO项目文档
+# Hello VuePress
